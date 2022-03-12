@@ -13,7 +13,7 @@ Possible improvements include:
 ## SEO
 IETF websites do not fully employ readiliy available methods for improving how content they host is indexed by and made available via external search engines. Areas for consideration include:
 
-+ sitemap.xml files
++ sitemap.xml and robots.txt files
 + webpage metadata
 + page and site dynamics (site structure and load times)
   
